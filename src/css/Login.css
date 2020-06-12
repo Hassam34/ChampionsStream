@@ -1,0 +1,29 @@
+.body {
+    background-color: #17202A ;
+    height: 100vh;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+
+.title {
+    font-size: 30px;
+    font-weight: bold;
+    /* font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; */
+}
+.title-white{
+    color: white;
+    font-size: 30px;
+
+}
+.column{
+    flex-direction: row-reverse;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+.center{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
