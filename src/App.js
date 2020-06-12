@@ -1,9 +1,9 @@
 import React from 'react';
 import Login from './screens/Login'
 import DashBoard from './screens/DashBoard'
-import LiveStream from './screens/LiveStream'
-import UploadVideo from './screens/UplaodVideo'
-import VideoCollections from './screens/VideoCollections'
+import LiveStream from './screens/liveStream/LiveStream'
+import UploadVideo from './screens/uploadVideo/UplaodVideo'
+import VideoCollections from './screens/videoCollections/VideoCollections'
 
 
 import {

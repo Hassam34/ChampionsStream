@@ -1,5 +1,4 @@
 import React from 'react'
-import '../css/Login.css'
 class UploadVideo extends React.Component {
     render() {
         return (
